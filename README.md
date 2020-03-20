@@ -1,5 +1,5 @@
 # Blog Catagorie
 
 * [AI]
-* [Python]
-* [Sports]
+* Python
+* Sports
