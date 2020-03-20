@@ -1,1 +1,4 @@
-# blog
+# Blog Catagories
+AI
+Python
+Sports
