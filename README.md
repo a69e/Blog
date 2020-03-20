@@ -1,4 +1,4 @@
-# Blog Catagorie
+# Blog Catagories
 
 * [AI/Algo](https://github.com/a69e/Blog/labels/AI/Algo)
 * [Python](https://github.com/a69e/Blog/labels/Python)
